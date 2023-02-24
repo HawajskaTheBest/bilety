@@ -1,0 +1,25 @@
+body
+{
+    background-color: black;
+}
+#header
+{
+    color:white;
+    font-size: 3rem;
+    text-align: center;
+}
+#turniej
+{
+    color: aqua;
+    float: left;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+#saldo
+{
+    color: aqua;
+   
+}
+

@@ -1,0 +1,143 @@
+body
+{
+    background-color: black;
+    max-width: 80%;
+    max-height: 1732px;
+      
+}
+#header
+{
+    color: white;
+    font-size: 5rem;
+    margin-left: 70px;
+    
+}
+#content
+{
+    color: red;
+}
+
+.tile
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: 230px;
+    
+}
+
+.tile1
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: 370px;
+    margin-right: 10px;
+    
+}
+
+#button
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+#button2
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.another
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: 490px;
+    margin-right: auto;
+    text-decoration: none; 
+}
+
+#wymiana
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#opaski
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: 220px;
+    margin-right: auto;
+}
+
+#button3
+{
+    background-color: white;
+    border-color: transparent;
+    float: left;
+}
+#lista1
+{
+    color:white
+    
+}
+
+#opcja
+{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+#wymienione
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    width: 250px;
+    height: 70px;
+    color: aqua;
+    margin-left: 220px;
+    margin-right: auto;
+}
+
+#money
+{
+    background-color: transparent;
+    float: right;
+    text-align: center;
+    margin: 0px;
+    width: 170px;
+    height: 100px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+     

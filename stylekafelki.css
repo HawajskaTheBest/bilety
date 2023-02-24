@@ -1,0 +1,125 @@
+body
+{
+    background-color: black;
+    max-width: 1217;
+    max-height: 601;
+     
+}
+#header
+{
+    color: white;
+    font-size: 5rem;
+    margin-left: 70px;
+    
+}
+#content
+{
+    color: red;
+}
+
+.tile
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: 230px;
+    
+}
+.tile1
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: 370px;
+    margin-right: 10px;
+    
+}
+#button
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+#button2
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+.another
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: 490px;
+    margin-right: auto;
+    text-decoration: none; 
+}
+#zaproszenia
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: 280px;
+    margin-right: auto;
+}
+#vip
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#wymiana
+{
+    background-color: transparent;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    width: 210px;
+    height: 70px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: 140px;
+}
+#button3
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#money
+{
+    background-color: transparent;
+    float: right;
+    text-align: center;
+    margin: 0px;
+    width: 170px;
+    height: 100px;
+    color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+     
